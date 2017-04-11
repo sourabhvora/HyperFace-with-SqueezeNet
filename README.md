@@ -1,5 +1,5 @@
 # **HyperFace-with-SqueezeNet**
-Two multitasking CNNs for simultaneous face detection, landmarks estimation and visibility, pose estimation and gender recognition.  
+Two multitasking CNNs for simultaneous face detection, landmarks estimation and visibility, pose estimation and gender recognition. Implemented for the final course project of the Neural Networks and Pattern Recognition (CSE253) course at UCSD.
 
 ## **hyperface.py** 
 It concatenates feature maps from initial, mid and final layers of the network and then branches out to different heads.  
